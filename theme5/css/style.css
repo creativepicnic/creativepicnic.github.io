@@ -296,6 +296,9 @@ a:hover, a:focus, a:active {
     color: #ffffff;
   }
 }
+.oakwoodlogo img{
+  margin-top: 20px;
+}
 
 .probootstrap-navbar .navbar-brand {
   padding-top: 0 !important;
