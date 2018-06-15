@@ -1884,6 +1884,11 @@ a:hover, a:focus, a:active {
   color: #DDD;
 }
 
+/*TEMPLATE IMAGE HEIGHT EQUALIZER*/
+.probootstrap-gutter0 img{
+  height: 260px;
+}
+
 .probootstrap-gutter0 > div[class*='col-'] {
   padding-right: 0px;
   padding-left: 0px;
