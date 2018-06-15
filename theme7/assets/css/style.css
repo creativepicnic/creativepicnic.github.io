@@ -12,6 +12,51 @@
   font-weight: normal;
   font-style: normal; }
 
+
+/* CREATIVE HOME HEADER*/
+/*
+.creativehome {
+  height:75px;
+  width:100%;
+  position: relative;
+  background: #B066FE;
+  background: -webkit-gradient(left top, right top, color-stop(0%, #B066FE), color-stop(100%, #63E2FF));
+  background: -webkit-gradient(linear, left top, right top, from(#B066FE), to(#63E2FF));
+  background: linear-gradient(to right, #B066FE 0%, #63E2FF 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr=$firstcolor, endColorstr=$secondcolor, GradientType=1 );
+  opacity: .8;
+}
+
+.creativepicniclogo {
+  height: 65px;
+  margin-left: 2%;
+  margin-top: 5px;
+}
+
+.backtohome {
+  position: absolute;
+  right: 0;
+  color: #fff;
+  margin-right: 4%;
+  top: 50%;
+  transform: translateY(-50%);
+  border: 3px #fff solid;
+  padding-left: 25px;
+  padding-right: 25px;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 16px;
+  font-weight: 300;
+  line-height: 29px;
+}
+
+.backtohome:hover {
+  background-color: #fff;
+  color: #191970;
+  text-decoration: none;
+}
+*/
+/* END OF CREATIVE HOME HEADER*/
+
 .mouse-wrap, .scroll-wrap {
   position: absolute;
   bottom: 50px;
@@ -1064,7 +1109,7 @@ a {
 
 .pb_navbar {
   position: absolute;
-  top: 0;
+  top: 75px;
   left: 0;
   z-index: 100;
   width: 100%;
