@@ -2059,3 +2059,16 @@ a:hover, a:focus, a:active {
     width: 100%;
   }
 }
+
+.calltoaction {
+  font-size: 20px;
+  font-weight: 400;
+  border: 2px #6233ff solid;
+  padding: 20px 30px 20px 30px;
+  color: #6233ff;
+}
+
+.calltoaction:hover {
+  color: #6233ff;
+}
+
